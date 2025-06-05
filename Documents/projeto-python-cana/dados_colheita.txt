@@ -1,3 +1,0 @@
-Talhão: Talhão 1, Estimada: 100t, Colhida: 85t, Perda: 15.0%
-Talhão: Talhão 2, Estimada: 120t, Colhida: 100t, Perda: 16.67%
-Talhão: Talhão 3, Estimada: 90t, Colhida: 70t, Perda: 22.22%
