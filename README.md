@@ -43,7 +43,8 @@ void loop() {
 
 ## 🧪 Coleta e Registro dos Dados
 
-Os dados foram coletados via Monitor Serial no Wokwi e estruturados em um arquivo CSV. Eles representam medições simuladas de temperatura e umidade ao longo do tempo.
+Os dados foram coletados via Monitor Serial no Wokwi e estruturados em um arquivo 
+CSV. Eles representam medições simuladas de temperatura e umidade ao longo do tempo.
 
 Arquivo: [`dados_simulados.csv`](./dados_simulados.csv)
 
@@ -55,7 +56,7 @@ Abaixo está o gráfico gerado a partir dos dados coletados, exibindo a variaç�
 
 ## 📁 Arquivos do Projeto
 
-- `circuito.png`: imagem da simulação do circuito no Wokwi
+- `Circuito_sprint_2.png`: imagem da simulação do circuito no Wokwi
 - `codigo_esp32_dht22.ino`: código fonte do ESP32 com sensor DHT22
 - `dados_simulados.csv`: dados simulados coletados do sensor
 - `grafico.png`: gráfico gerado com Python a partir dos dados simulados
@@ -63,6 +64,8 @@ Abaixo está o gráfico gerado a partir dos dados coletados, exibindo a variaç�
 
 ## 👨‍💻 Equipe
 
-- Tiago Alves
-- [Nome 2]
-- [Nome 3]
+- Matheus Parra - RM561907
+- Otavio Custodio de Oliveira - RM565606
+- Tiago Alves Cordeiro - RM561791
+- Thiago Henrique Pereira de Almeida Santos - RM563327
+- Leandro Arthur Marinho Ferreira - RM565240
